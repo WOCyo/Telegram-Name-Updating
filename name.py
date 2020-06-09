@@ -60,7 +60,7 @@ async def change_name_auto():
                     first_name = 'ଉକଲଇ|别pm我|当前时间'
                 elif for_fun < 0.30:
                     first_name = 'ଉକଲଇ|先看简介|当前时间'
-                elif for_fun < 0.60
+                elif for_fun < 0.60:
                     first_name = 'ଉକଲଇ|我很菜的|当前时间'
                 elif for_fun < 0.90:
                     first_name = 'ଉକଲଇ|除了灌水啥都不会|当前时间'
